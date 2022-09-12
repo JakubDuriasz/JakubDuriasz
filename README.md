@@ -1,4 +1,4 @@
-### Sup m8! I'm Jakub
+### I'm Jakub
 
 ![17 years old](https://img.shields.io/badge/-%2017%20years%20old%20-blue?style=for-the-badge) ![Programming Student](https://img.shields.io/badge/-%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93%20programming%20student%20(3/5%20year)-blueviolet?style=for-the-badge) ![Discord](https://img.shields.io/badge/krzysiuuu%233137-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) ![E-mail](https://img.shields.io/badge/-%F0%9F%93%A7%20jakub.duriasz%40o2.com-9cf?style=for-the-badge)
 
